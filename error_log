@@ -1,0 +1,610 @@
+[02-Aug-2017 15:48:59 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 15:51:22 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 15:51:36 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 15:52:38 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 15:52:48 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 15:53:31 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 15:53:59 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 15:54:34 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 15:55:00 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 17:32:44 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 17:39:36 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 17:58:56 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 17:59:15 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 17:59:32 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 18:13:43 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 20:27:12 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 20:27:29 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 20:27:49 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 20:31:46 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 20:32:28 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[02-Aug-2017 20:35:05 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[21-Aug-2017 02:56:57 UTC] PHP Warning:  mcrypt_encrypt(): Encryption mode requires an initialization vector of size 16 in /home/municip4/public_html/remuneracion/inc/clave.php on line 8
+[24-Aug-2017 14:00:01 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/municip4/public_html/remuneracion/validarUsuario.php on line 9
+[24-Aug-2017 14:07:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and mes =  and rut = '15026369-7'' at line 3' in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php on line 16
+[24-Aug-2017 14:07:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and mes =  and rut = '15026369-7'' at line 3' in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php on line 16
+[24-Aug-2017 14:08:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and mes =  and rut = '17174457-1'' at line 3' in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php on line 16
+[24-Aug-2017 14:09:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'municip4_remuneracion.personal_SEP' doesn't exist' in /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php on line 16
+[24-Aug-2017 14:09:47 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'municip4_remuneracion.personal_SEP' doesn't exist' in /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php on line 16
+[24-Aug-2017 18:10:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'municip4_remuneracion.personal_SEP' doesn't exist' in /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php on line 16
+[24-Aug-2017 18:10:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'municip4_remuneracion.personal_SEP' doesn't exist' in /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php on line 16
+[24-Aug-2017 18:10:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'municip4_remuneracion.personal_SEP' doesn't exist' in /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php on line 16
+[24-Aug-2017 18:16:41 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'municip4_remuneracion.personal_SEP' doesn't exist' in /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php on line 16
+[24-Aug-2017 18:17:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and mes =  and rut = '15026369-7'' at line 3' in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php on line 16
+[24-Aug-2017 18:29:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'municip4_remuneracion.personal_SEP' doesn't exist' in /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionSEP.php on line 16
+[24-Aug-2017 18:42:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and mes =  and rut = '18312288-6'' at line 3' in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php on line 16
+[24-Aug-2017 18:46:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and mes =  and rut = '18312288-6'' at line 3' in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php on line 16
+[24-Aug-2017 18:46:51 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and mes =  and rut = '18312288-6'' at line 3' in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php on line 16
+[24-Aug-2017 18:47:00 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and mes =  and rut = '18312288-6'' at line 3' in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php on line 16
+[24-Aug-2017 18:47:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and mes =  and rut = '18312288-6'' at line 3' in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php on line 16
+[24-Aug-2017 18:47:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and mes =  and rut = '18312288-6'' at line 3' in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php on line 16
+[24-Aug-2017 18:47:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'and mes =  and rut = '18312288-6'' at line 3' in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php:16
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php(16): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacionPIE.php on line 16
+[25-Aug-2017 12:55:18 UTC] PHP Catchable fatal error:  Argument 1 passed to DOMNode::appendChild() must be an instance of DOMNode, null given, called in /home/municip4/public_html/remuneracion/dompdf/include/table_frame_decorator.cls.php on line 320 and defined in /home/municip4/public_html/remuneracion/dompdf/include/frame.cls.php on line 448
+[12-Sep-2017 03:28:45 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE anho = 2017 and mes = 5 and rut = '15021597-8' GROUP BY rut
+				UNION SEL' at line 1' in /home/municip4/public_html/remuneracion/generaLiquidacion.php:87
+Stack trace:
+#0 /home/municip4/public_html/remuneracion/generaLiquidacion.php(87): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/remuneracion/generaLiquidacion.php on line 87
+[16-Jan-2018 12:42:45 UTC] PHP Warning:  number_format() expects parameter 1 to be double, string given in /home/municip4/public_html/remuneracion/inc/functions.common.php on line 17
+[17-Jan-2018 00:03:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'municip4_sit2.personal_general' doesn't exist' in /home/municip4/public_html/sit/remuneracion.php:18
+Stack trace:
+#0 /home/municip4/public_html/sit/remuneracion.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/remuneracion.php on line 18
+[17-Jan-2018 03:32:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6' in /home/municip4/public_html/sit/resumen.php:17
+Stack trace:
+#0 /home/municip4/public_html/sit/resumen.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/resumen.php on line 17
+[17-Jan-2018 03:32:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6' in /home/municip4/public_html/sit/resumen.php:17
+Stack trace:
+#0 /home/municip4/public_html/sit/resumen.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/resumen.php on line 17
+[17-Jan-2018 03:32:08 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6' in /home/municip4/public_html/sit/resumen.php:17
+Stack trace:
+#0 /home/municip4/public_html/sit/resumen.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/resumen.php on line 17
+[17-Jan-2018 03:32:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6' in /home/municip4/public_html/sit/resumen.php:17
+Stack trace:
+#0 /home/municip4/public_html/sit/resumen.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/resumen.php on line 17
+[17-Jan-2018 03:32:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6' in /home/municip4/public_html/sit/resumen.php:17
+Stack trace:
+#0 /home/municip4/public_html/sit/resumen.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/resumen.php on line 17
+[17-Jan-2018 03:33:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6' in /home/municip4/public_html/sit/resumen.php:17
+Stack trace:
+#0 /home/municip4/public_html/sit/resumen.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/resumen.php on line 17
+[17-Jan-2018 03:33:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6' in /home/municip4/public_html/sit/resumen.php:17
+Stack trace:
+#0 /home/municip4/public_html/sit/resumen.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/resumen.php on line 17
+[17-Jan-2018 03:33:14 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6' in /home/municip4/public_html/sit/resumen.php:17
+Stack trace:
+#0 /home/municip4/public_html/sit/resumen.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/resumen.php on line 17
+[17-Jan-2018 03:33:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6' in /home/municip4/public_html/sit/resumen.php:17
+Stack trace:
+#0 /home/municip4/public_html/sit/resumen.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/resumen.php on line 17
+[17-Jan-2018 03:35:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6' in /home/municip4/public_html/sit/resumen.php:17
+Stack trace:
+#0 /home/municip4/public_html/sit/resumen.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/resumen.php on line 17
+[17-Jan-2018 03:35:17 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6' in /home/municip4/public_html/sit/resumen.php:17
+Stack trace:
+#0 /home/municip4/public_html/sit/resumen.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/resumen.php on line 17
+[17-Jan-2018 03:36:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 6' in /home/municip4/public_html/sit/resumen.php:17
+Stack trace:
+#0 /home/municip4/public_html/sit/resumen.php(17): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/resumen.php on line 17
+[19-Jan-2018 12:09:18 UTC] PHP Fatal error:  Call to undefined function dater() in /home/municip4/public_html/sit/reporte2.php on line 17
+[19-Jan-2018 12:09:28 UTC] PHP Fatal error:  Call to undefined function dater() in /home/municip4/public_html/sit/reporte2.php on line 17
+[19-Jan-2018 12:11:08 UTC] PHP Fatal error:  Call to undefined function dater() in /home/municip4/public_html/sit/reporte2.php on line 17
+[19-Jan-2018 12:12:17 UTC] PHP Fatal error:  Call to undefined function dater() in /home/municip4/public_html/sit/reporte2.php on line 17
+[19-Jan-2018 12:27:46 UTC] PHP Fatal error:  Call to undefined function dater() in /home/municip4/public_html/sit/reporte2.php on line 17
+[19-Jan-2018 12:29:51 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/municip4/public_html/sit/reporte2.php on line 14
+[22-Jan-2018 11:33:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1286 Unknown storage engine 'InnoDB'' in /home/municip4/public_html/sit/validarUsuario.php:10
+Stack trace:
+#0 /home/municip4/public_html/sit/validarUsuario.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/validarUsuario.php on line 10
+[22-Jan-2018 11:37:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1286 Unknown storage engine 'InnoDB'' in /home/municip4/public_html/sit/validarUsuario.php:10
+Stack trace:
+#0 /home/municip4/public_html/sit/validarUsuario.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/validarUsuario.php on line 10
+[22-Jan-2018 11:39:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1286 Unknown storage engine 'InnoDB'' in /home/municip4/public_html/sit/validarUsuario.php:10
+Stack trace:
+#0 /home/municip4/public_html/sit/validarUsuario.php(10): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/validarUsuario.php on line 10
+[11-Apr-2018 19:18:11 UTC] PHP Warning:  include(functions.forms.php): failed to open stream: No such file or directory in /home/municip4/public_html/sit/inc/config.php on line 5
+[11-Apr-2018 19:18:11 UTC] PHP Warning:  include(): Failed opening 'functions.forms.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/municip4/public_html/sit/inc/config.php on line 5
+[11-Apr-2018 19:18:11 UTC] PHP Fatal error:  Call to undefined function form_check() in /home/municip4/public_html/sit/planilla.edit.php on line 8
+[11-Apr-2018 19:57:27 UTC] PHP Parse error:  syntax error, unexpected 'form_save' (T_STRING) in /home/municip4/public_html/sit/planilla.edit.php on line 43
+[11-Apr-2018 19:57:33 UTC] PHP Parse error:  syntax error, unexpected 'form_save' (T_STRING) in /home/municip4/public_html/sit/planilla.edit.php on line 43
+[10-May-2018 20:20:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[23000]: Integrity constraint violation: 1451 Cannot delete or update a parent row: a foreign key constraint fails (`municip4_sit2`.`planilla`, CONSTRAINT `fk_planilla_sector1` FOREIGN KEY (`sector`) REFERENCES `sector` (`id`) ON DELETE NO ACTION ON UPDATE NO ACTION)' in /home/municip4/public_html/sit/sector.php:12
+Stack trace:
+#0 /home/municip4/public_html/sit/sector.php(12): PDOStatement->execute()
+#1 {main}
+  thrown in /home/municip4/public_html/sit/sector.php on line 12
+[22-May-2018 13:16:34 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/municip4/public_html/sit/validarUsuario.php:2) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[22-May-2018 13:16:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:2) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[22-May-2018 13:16:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:2) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[23-May-2018 21:35:05 UTC] PHP Fatal error:  Call to undefined function mb_strtolower() in /home/municip4/public_html/sit/inc/functions.forms.php on line 418
+[04-Jun-2018 18:56:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[07-Jun-2018 14:02:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[20-Jun-2018 17:00:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[27-Jun-2018 01:35:46 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Cpdf has a deprecated constructor in /home/municip4/public_html/sit/dompdf/lib/class.pdf.php on line 45
+[27-Jun-2018 01:35:46 UTC] PHP Fatal error:  Uncaught DOMPDF_Exception: No block-level parent found.  Not good. in /home/municip4/public_html/sit/dompdf/include/inline_positioner.cls.php:68
+Stack trace:
+#0 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(382): Inline_Positioner->position()
+#1 /home/municip4/public_html/sit/dompdf/include/text_frame_reflower.cls.php(330): Frame_Decorator->position()
+#2 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(388): Text_Frame_Reflower->reflow()
+#3 /home/municip4/public_html/sit/dompdf/include/page_frame_reflower.cls.php(96): Frame_Decorator->reflow()
+#4 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(388): Page_Frame_Reflower->reflow()
+#5 /home/municip4/public_html/sit/dompdf/include/dompdf.cls.php(525): Frame_Decorator->reflow()
+#6 /home/municip4/public_html/sit/reporte2.php(169): DOMPDF->render()
+#7 {main}
+  thrown in /home/municip4/public_html/sit/dompdf/include/inline_positioner.cls.php on line 68
+[11-Jul-2018 15:00:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[25-Jul-2018 20:49:06 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[26-Jul-2018 02:06:43 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[26-Jul-2018 13:21:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[26-Jul-2018 19:08:17 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Cpdf has a deprecated constructor in /home/municip4/public_html/sit/dompdf/lib/class.pdf.php on line 45
+[26-Jul-2018 19:08:17 UTC] PHP Fatal error:  Uncaught DOMPDF_Exception: No block-level parent found.  Not good. in /home/municip4/public_html/sit/dompdf/include/inline_positioner.cls.php:68
+Stack trace:
+#0 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(382): Inline_Positioner->position()
+#1 /home/municip4/public_html/sit/dompdf/include/text_frame_reflower.cls.php(330): Frame_Decorator->position()
+#2 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(388): Text_Frame_Reflower->reflow()
+#3 /home/municip4/public_html/sit/dompdf/include/page_frame_reflower.cls.php(96): Frame_Decorator->reflow()
+#4 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(388): Page_Frame_Reflower->reflow()
+#5 /home/municip4/public_html/sit/dompdf/include/dompdf.cls.php(525): Frame_Decorator->reflow()
+#6 /home/municip4/public_html/sit/reporte2.php(169): DOMPDF->render()
+#7 {main}
+  thrown in /home/municip4/public_html/sit/dompdf/include/inline_positioner.cls.php on line 68
+[26-Jul-2018 19:08:56 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Cpdf has a deprecated constructor in /home/municip4/public_html/sit/dompdf/lib/class.pdf.php on line 45
+[26-Jul-2018 19:08:56 UTC] PHP Fatal error:  Uncaught DOMPDF_Exception: No block-level parent found.  Not good. in /home/municip4/public_html/sit/dompdf/include/inline_positioner.cls.php:68
+Stack trace:
+#0 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(382): Inline_Positioner->position()
+#1 /home/municip4/public_html/sit/dompdf/include/text_frame_reflower.cls.php(330): Frame_Decorator->position()
+#2 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(388): Text_Frame_Reflower->reflow()
+#3 /home/municip4/public_html/sit/dompdf/include/page_frame_reflower.cls.php(96): Frame_Decorator->reflow()
+#4 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(388): Page_Frame_Reflower->reflow()
+#5 /home/municip4/public_html/sit/dompdf/include/dompdf.cls.php(525): Frame_Decorator->reflow()
+#6 /home/municip4/public_html/sit/reporte2.php(169): DOMPDF->render()
+#7 {main}
+  thrown in /home/municip4/public_html/sit/dompdf/include/inline_positioner.cls.php on line 68
+[26-Jul-2018 19:09:41 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Cpdf has a deprecated constructor in /home/municip4/public_html/sit/dompdf/lib/class.pdf.php on line 45
+[26-Jul-2018 19:09:41 UTC] PHP Fatal error:  Uncaught DOMPDF_Exception: No block-level parent found.  Not good. in /home/municip4/public_html/sit/dompdf/include/inline_positioner.cls.php:68
+Stack trace:
+#0 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(382): Inline_Positioner->position()
+#1 /home/municip4/public_html/sit/dompdf/include/text_frame_reflower.cls.php(330): Frame_Decorator->position()
+#2 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(388): Text_Frame_Reflower->reflow()
+#3 /home/municip4/public_html/sit/dompdf/include/page_frame_reflower.cls.php(96): Frame_Decorator->reflow()
+#4 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(388): Page_Frame_Reflower->reflow()
+#5 /home/municip4/public_html/sit/dompdf/include/dompdf.cls.php(525): Frame_Decorator->reflow()
+#6 /home/municip4/public_html/sit/reporte2.php(169): DOMPDF->render()
+#7 {main}
+  thrown in /home/municip4/public_html/sit/dompdf/include/inline_positioner.cls.php on line 68
+[26-Jul-2018 19:49:01 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Cpdf has a deprecated constructor in /home/municip4/public_html/sit/dompdf/lib/class.pdf.php on line 45
+[26-Jul-2018 19:49:01 UTC] PHP Fatal error:  Uncaught DOMPDF_Exception: No block-level parent found.  Not good. in /home/municip4/public_html/sit/dompdf/include/inline_positioner.cls.php:68
+Stack trace:
+#0 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(382): Inline_Positioner->position()
+#1 /home/municip4/public_html/sit/dompdf/include/text_frame_reflower.cls.php(330): Frame_Decorator->position()
+#2 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(388): Text_Frame_Reflower->reflow()
+#3 /home/municip4/public_html/sit/dompdf/include/page_frame_reflower.cls.php(96): Frame_Decorator->reflow()
+#4 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(388): Page_Frame_Reflower->reflow()
+#5 /home/municip4/public_html/sit/dompdf/include/dompdf.cls.php(525): Frame_Decorator->reflow()
+#6 /home/municip4/public_html/sit/reporte2.php(169): DOMPDF->render()
+#7 {main}
+  thrown in /home/municip4/public_html/sit/dompdf/include/inline_positioner.cls.php on line 68
+[27-Jul-2018 12:47:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[30-Jul-2018 21:40:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[31-Jul-2018 12:57:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[31-Jul-2018 12:58:36 UTC] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Cpdf has a deprecated constructor in /home/municip4/public_html/sit/dompdf/lib/class.pdf.php on line 45
+[31-Jul-2018 12:58:36 UTC] PHP Fatal error:  Uncaught DOMPDF_Exception: No block-level parent found.  Not good. in /home/municip4/public_html/sit/dompdf/include/inline_positioner.cls.php:68
+Stack trace:
+#0 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(382): Inline_Positioner->position()
+#1 /home/municip4/public_html/sit/dompdf/include/text_frame_reflower.cls.php(330): Frame_Decorator->position()
+#2 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(388): Text_Frame_Reflower->reflow()
+#3 /home/municip4/public_html/sit/dompdf/include/page_frame_reflower.cls.php(96): Frame_Decorator->reflow()
+#4 /home/municip4/public_html/sit/dompdf/include/frame_decorator.cls.php(388): Page_Frame_Reflower->reflow()
+#5 /home/municip4/public_html/sit/dompdf/include/dompdf.cls.php(525): Frame_Decorator->reflow()
+#6 /home/municip4/public_html/sit/reporte2.php(169): DOMPDF->render()
+#7 {main}
+  thrown in /home/municip4/public_html/sit/dompdf/include/inline_positioner.cls.php on line 68
+[01-Aug-2018 15:26:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[02-Aug-2018 01:13:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[02-Aug-2018 01:24:31 UTC] PHP Fatal error:  Allowed memory size of 266338304 bytes exhausted (tried to allocate 20480 bytes) in /home/municip4/public_html/sit/dompdf/include/style.cls.php on line 567
+[02-Aug-2018 04:29:58 UTC] PHP Fatal error:  Allowed memory size of 266338304 bytes exhausted (tried to allocate 20480 bytes) in /home/municip4/public_html/sit/dompdf/include/style.cls.php on line 567
+[02-Aug-2018 04:46:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[02-Aug-2018 04:46:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[02-Aug-2018 04:54:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[02-Aug-2018 05:01:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[02-Aug-2018 05:01:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[02-Aug-2018 05:02:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[02-Aug-2018 05:02:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[02-Aug-2018 05:02:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[02-Aug-2018 05:02:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[02-Aug-2018 05:05:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[02-Aug-2018 05:05:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[02-Aug-2018 13:56:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[02-Aug-2018 15:50:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[02-Aug-2018 19:52:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[02-Aug-2018 19:56:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[02-Aug-2018 19:56:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[02-Aug-2018 20:02:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[02-Aug-2018 20:32:22 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[02-Aug-2018 20:37:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[02-Aug-2018 20:37:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[02-Aug-2018 20:37:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/municip4/public_html/sit/reporte2.php:46) in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 7630
+[02-Aug-2018 20:40:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/municip4/public_html/sit/reporte2.php:46) in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 7630
+[02-Aug-2018 20:47:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/municip4/public_html/sit/reporte2.php:46) in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 7630
+[03-Aug-2018 13:26:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[03-Aug-2018 14:51:44 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[03-Aug-2018 14:59:23 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 16926
+[03-Aug-2018 14:59:23 UTC] PHP Warning:  array_push() expects parameter 1 to be array, null given in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 16926
+[07-Aug-2018 15:44:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[09-Aug-2018 16:15:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[10-Aug-2018 12:50:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[10-Aug-2018 17:18:05 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 18286
+[13-Aug-2018 15:41:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[13-Aug-2018 20:07:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[14-Aug-2018 12:00:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[14-Aug-2018 13:03:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[14-Aug-2018 13:10:57 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 18286
+[14-Aug-2018 15:19:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[14-Aug-2018 15:37:12 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 18286
+[14-Aug-2018 20:23:27 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[14-Aug-2018 20:23:27 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[16-Aug-2018 15:49:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[17-Aug-2018 15:36:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[17-Aug-2018 15:36:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[23-Aug-2018 15:15:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[27-Aug-2018 12:06:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[29-Aug-2018 16:18:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[29-Aug-2018 16:18:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[30-Aug-2018 12:50:12 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 18286
+[03-Sep-2018 12:39:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[03-Sep-2018 15:50:37 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[04-Sep-2018 13:48:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[04-Sep-2018 18:12:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[05-Sep-2018 02:02:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[05-Sep-2018 02:02:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[05-Sep-2018 02:02:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[05-Sep-2018 02:02:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[05-Sep-2018 02:07:15 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 18286
+[05-Sep-2018 15:21:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[07-Sep-2018 13:24:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[10-Sep-2018 15:07:15 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[10-Sep-2018 15:07:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[10-Sep-2018 15:07:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[11-Sep-2018 18:21:34 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[11-Sep-2018 19:49:33 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[11-Sep-2018 19:57:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[11-Sep-2018 19:57:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[12-Sep-2018 15:37:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[12-Sep-2018 15:43:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[12-Sep-2018 15:43:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[13-Sep-2018 11:56:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[13-Sep-2018 14:08:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[24-Sep-2018 12:42:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[25-Sep-2018 13:35:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[25-Sep-2018 15:53:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[25-Sep-2018 19:40:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[26-Sep-2018 03:45:46 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[26-Sep-2018 12:17:17 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[26-Sep-2018 13:20:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[26-Sep-2018 13:20:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[26-Sep-2018 13:21:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[26-Sep-2018 13:21:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[27-Sep-2018 19:27:42 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[28-Sep-2018 15:29:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[01-Oct-2018 18:38:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[01-Oct-2018 18:42:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[01-Oct-2018 18:42:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[02-Oct-2018 14:57:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[02-Oct-2018 19:21:16 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 18286
+[02-Oct-2018 19:21:16 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 18286
+[02-Oct-2018 19:59:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[03-Oct-2018 12:21:11 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[03-Oct-2018 18:05:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[03-Oct-2018 18:10:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[03-Oct-2018 18:10:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[04-Oct-2018 12:53:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[05-Oct-2018 12:03:59 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[06-Oct-2018 13:20:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[08-Oct-2018 00:48:25 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[08-Oct-2018 00:50:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[11-Oct-2018 02:54:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[11-Oct-2018 03:00:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[11-Oct-2018 12:01:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[11-Oct-2018 14:46:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[11-Oct-2018 18:51:48 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[12-Oct-2018 16:17:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[16-Oct-2018 18:50:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[16-Oct-2018 18:55:53 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 18286
+[17-Oct-2018 18:40:10 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[19-Oct-2018 13:18:24 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[23-Oct-2018 15:51:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[23-Oct-2018 19:43:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[24-Oct-2018 20:03:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[24-Oct-2018 20:03:29 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[13-Nov-2018 14:00:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[14-Nov-2018 13:32:57 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[14-Nov-2018 13:40:48 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 18286
+[14-Nov-2018 13:41:01 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 18286
+[14-Nov-2018 14:04:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[21-Nov-2018 14:46:32 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[26-Nov-2018 17:59:30 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[29-Nov-2018 21:00:14 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 18286
+[06-Dec-2018 11:20:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[06-Dec-2018 11:20:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[09-Dec-2018 03:55:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[09-Dec-2018 03:55:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[09-Dec-2018 03:55:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[09-Dec-2018 03:55:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[09-Dec-2018 03:56:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[09-Dec-2018 03:56:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[15-Dec-2018 01:44:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[15-Dec-2018 01:44:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[15-Dec-2018 01:49:39 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 18286
+[27-Dec-2018 18:00:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[27-Dec-2018 18:00:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[27-Dec-2018 18:00:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[27-Dec-2018 18:00:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[27-Dec-2018 18:01:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[27-Dec-2018 18:01:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[28-Dec-2018 15:19:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[28-Dec-2018 15:19:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[28-Dec-2018 15:20:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[28-Dec-2018 15:20:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[28-Dec-2018 15:20:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[28-Dec-2018 15:20:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[29-Dec-2018 22:11:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[29-Dec-2018 22:11:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[04-Jan-2019 13:43:08 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[07-Jan-2019 18:13:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[20-Feb-2019 11:47:48 UTC] PHP Fatal error:  Call to undefined function mb_strtolower() in /home/municip4/public_html/sit/inc/functions.forms.php on line 418
+[20-Feb-2019 22:57:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[28-Feb-2019 19:58:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[01-Mar-2019 12:38:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[01-Mar-2019 15:03:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[01-Mar-2019 15:07:40 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[04-Mar-2019 12:01:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[04-Mar-2019 12:39:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[05-Mar-2019 12:20:03 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[15-Mar-2019 13:22:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[15-Mar-2019 13:22:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[15-Mar-2019 13:23:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[15-Mar-2019 13:23:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[22-Mar-2019 14:24:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[22-Mar-2019 14:24:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[22-Mar-2019 14:28:56 UTC] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 18286
+[25-Mar-2019 10:56:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[25-Mar-2019 10:56:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[25-Mar-2019 16:41:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[25-Mar-2019 16:41:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[11-Apr-2019 20:04:50 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[12-Apr-2019 16:40:36 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[25-Apr-2019 15:28:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[29-Apr-2019 21:29:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[29-Apr-2019 21:29:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[13-May-2019 13:57:09 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[14-May-2019 12:52:35 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[15-May-2019 16:34:18 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[16-May-2019 13:01:05 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[17-May-2019 13:38:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[20-May-2019 14:43:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[11-Jun-2019 16:10:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[11-Jun-2019 16:10:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[11-Jun-2019 16:29:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[11-Jun-2019 16:29:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[11-Jun-2019 16:36:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[11-Jun-2019 16:36:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[11-Jun-2019 16:37:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19486
+[11-Jun-2019 16:37:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/municip4/public_html/sit/tcpdf/tcpdf.php on line 19518
+[09-Jul-2019 14:50:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[10-Jul-2019 17:40:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[11-Jul-2019 16:11:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[15-Jul-2019 12:47:02 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[02-Aug-2019 13:27:53 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[05-Aug-2019 12:42:47 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/municip4/public_html/sit/validarUsuario.php:1) in /home/municip4/public_html/sit/validarUsuario.php on line 14
+[26-Aug-2019 01:04:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strtolower() in /home/novatesting/public_html/sit/inc/functions.forms.php:418
+Stack trace:
+#0 /home/novatesting/public_html/sit/index.php(31): form_input('cuenta', '', false)
+#1 {main}
+  thrown in /home/novatesting/public_html/sit/inc/functions.forms.php on line 418
+[26-Aug-2019 01:05:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strtolower() in /home/novatesting/public_html/sit/inc/functions.forms.php:418
+Stack trace:
+#0 /home/novatesting/public_html/sit/index.php(31): form_input('cuenta', '', false)
+#1 {main}
+  thrown in /home/novatesting/public_html/sit/inc/functions.forms.php on line 418
+[26-Aug-2019 01:05:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strtolower() in /home/novatesting/public_html/sit/inc/functions.forms.php:418
+Stack trace:
+#0 /home/novatesting/public_html/sit/index.php(31): form_input('cuenta', '', false)
+#1 {main}
+  thrown in /home/novatesting/public_html/sit/inc/functions.forms.php on line 418
+[26-Aug-2019 01:12:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strtolower() in /home/novatesting/public_html/sit/inc/functions.forms.php:418
+Stack trace:
+#0 /home/novatesting/public_html/sit/index.php(31): form_input('cuenta', '', false)
+#1 {main}
+  thrown in /home/novatesting/public_html/sit/inc/functions.forms.php on line 418
+[26-Aug-2019 01:12:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strtolower() in /home/novatesting/public_html/sit/inc/functions.forms.php:418
+Stack trace:
+#0 /home/novatesting/public_html/sit/index.php(31): form_input('cuenta', '', false)
+#1 {main}
+  thrown in /home/novatesting/public_html/sit/inc/functions.forms.php on line 418
+[26-Aug-2019 01:12:35 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strtolower() in /home/novatesting/public_html/sit/inc/functions.forms.php:418
+Stack trace:
+#0 /home/novatesting/public_html/sit/index.php(31): form_input('cuenta', '', false)
+#1 {main}
+  thrown in /home/novatesting/public_html/sit/inc/functions.forms.php on line 418
+[26-Aug-2019 01:13:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strtolower() in /home/novatesting/public_html/sit/inc/functions.forms.php:418
+Stack trace:
+#0 /home/novatesting/public_html/sit/index.php(31): form_input('cuenta', '', false)
+#1 {main}
+  thrown in /home/novatesting/public_html/sit/inc/functions.forms.php on line 418
+[26-Aug-2019 01:13:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strtolower() in /home/novatesting/public_html/sit/inc/functions.forms.php:418
+Stack trace:
+#0 /home/novatesting/public_html/sit/index.php(31): form_input('cuenta', '', false)
+#1 {main}
+  thrown in /home/novatesting/public_html/sit/inc/functions.forms.php on line 418
+[26-Aug-2019 01:13:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strtolower() in /home/novatesting/public_html/sit/inc/functions.forms.php:418
+Stack trace:
+#0 /home/novatesting/public_html/sit/index.php(31): form_input('cuenta', '', false)
+#1 {main}
+  thrown in /home/novatesting/public_html/sit/inc/functions.forms.php on line 418
+[26-Aug-2019 01:13:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strtolower() in /home/novatesting/public_html/sit/inc/functions.forms.php:418
+Stack trace:
+#0 /home/novatesting/public_html/sit/index.php(31): form_input('cuenta', '', false)
+#1 {main}
+  thrown in /home/novatesting/public_html/sit/inc/functions.forms.php on line 418
+[26-Aug-2019 01:14:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strtolower() in /home/novatesting/public_html/sit/inc/functions.forms.php:418
+Stack trace:
+#0 /home/novatesting/public_html/sit/index.php(31): form_input('cuenta', '', false)
+#1 {main}
+  thrown in /home/novatesting/public_html/sit/inc/functions.forms.php on line 418
+[26-Aug-2019 01:14:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mb_strtolower() in /home/novatesting/public_html/sit/inc/functions.forms.php:418
+Stack trace:
+#0 /home/novatesting/public_html/sit/index.php(31): form_input('cuenta', '', false)
+#1 {main}
+  thrown in /home/novatesting/public_html/sit/inc/functions.forms.php on line 418
+[26-Aug-2019 01:16:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[26-Aug-2019 01:19:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[02-Sep-2019 20:38:51 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[02-Sep-2019 21:57:07 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[02-Sep-2019 22:02:21 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/novatesting/public_html/sit/backup.php on line 3
+[02-Sep-2019 22:02:21 UTC] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/novatesting/public_html/sit/backup.php on line 3
+[02-Sep-2019 22:02:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backDb() in /home/novatesting/public_html/sit/backup.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/novatesting/public_html/sit/backup.php on line 13
+[02-Sep-2019 22:04:52 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/novatesting/public_html/sit/backup.php on line 3
+[02-Sep-2019 22:04:52 UTC] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/novatesting/public_html/sit/backup.php on line 3
+[02-Sep-2019 22:04:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backDb() in /home/novatesting/public_html/sit/backup.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/novatesting/public_html/sit/backup.php on line 13
+[02-Sep-2019 22:06:00 UTC] PHP Warning:  include(function.php): failed to open stream: No such file or directory in /home/novatesting/public_html/sit/backup.php on line 3
+[02-Sep-2019 22:06:00 UTC] PHP Warning:  include(): Failed opening 'function.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/novatesting/public_html/sit/backup.php on line 3
+[02-Sep-2019 22:06:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function backDb() in /home/novatesting/public_html/sit/backup.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/novatesting/public_html/sit/backup.php on line 13
+[02-Sep-2019 22:28:21 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[02-Sep-2019 22:51:49 UTC] PHP Warning:  include(functionrestaurar.php): failed to open stream: No such file or directory in /home/novatesting/public_html/sit/restore.php on line 5
+[02-Sep-2019 22:51:49 UTC] PHP Warning:  include(): Failed opening 'functionrestaurar.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/novatesting/public_html/sit/restore.php on line 5
+[02-Sep-2019 22:51:49 UTC] PHP Warning:  move_uploaded_file(upload/novatest_sib2_backup.sql): failed to open stream: No such file or directory in /home/novatesting/public_html/sit/restore.php on line 17
+[02-Sep-2019 22:51:49 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpsSFJ9M' to 'upload/novatest_sib2_backup.sql' in /home/novatesting/public_html/sit/restore.php on line 17
+[02-Sep-2019 22:51:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function restore() in /home/novatesting/public_html/sit/restore.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/novatesting/public_html/sit/restore.php on line 21
+[02-Sep-2019 22:53:53 UTC] PHP Warning:  include(functionrestaurar.php): failed to open stream: No such file or directory in /home/novatesting/public_html/sit/restore.php on line 5
+[02-Sep-2019 22:53:53 UTC] PHP Warning:  include(): Failed opening 'functionrestaurar.php' for inclusion (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home/novatesting/public_html/sit/restore.php on line 5
+[02-Sep-2019 22:53:53 UTC] PHP Warning:  move_uploaded_file(upload/novatest_sib2_backup (1).sql): failed to open stream: No such file or directory in /home/novatesting/public_html/sit/restore.php on line 17
+[02-Sep-2019 22:53:53 UTC] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoyvSOe' to 'upload/novatest_sib2_backup (1).sql' in /home/novatesting/public_html/sit/restore.php on line 17
+[02-Sep-2019 22:53:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function restore() in /home/novatesting/public_html/sit/restore.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/novatesting/public_html/sit/restore.php on line 21
+[03-Sep-2019 03:01:38 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[10-Sep-2019 00:37:16 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[10-Sep-2019 01:54:56 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[10-Sep-2019 02:11:54 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[10-Sep-2019 02:46:01 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[10-Sep-2019 02:46:31 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[10-Sep-2019 02:46:41 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[10-Sep-2019 02:46:49 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[10-Sep-2019 02:46:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[10-Sep-2019 03:38:00 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14
+[10-Sep-2019 13:16:55 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/novatesting/public_html/sit/validarUsuario.php:1) in /home/novatesting/public_html/sit/validarUsuario.php on line 14

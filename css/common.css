@@ -1,0 +1,111 @@
+body {
+	padding: 20px;
+}
+button{outline:none!important}
+
+/* datatables */
+
+td.delete {
+	padding-left: 28px !important;
+	color: #555;
+	background: url("../img/loader.datatables.gif") no-repeat 8px center;
+}
+td.action a {
+	display: block;
+}
+th.action, td.action {
+	width: 35px;
+	text-align: center;
+}
+td.action_delete a {
+	color: #e74c3c;
+}
+td.action_delete a:hover {
+	color: #c0392b;
+}
+th.timestamp, td.timestamp {
+	width: 140px;
+	text-align: center;
+}
+th.date, td.date {
+	width: 80px;
+	text-align: center;
+}
+th.money, td.money {
+	width: 100px;
+	text-align: center;
+}
+th.boolean, td.boolean {
+	width: 35px;
+	text-align: center;
+}
+td.boolean .text-success {
+	color: #84ab6e;
+}
+td.boolean .text-muted {
+	color: #ccc;
+}
+th.mini, td.mini {
+	width: 65px;
+	text-align: center;
+}
+th.ip, td.ip {
+	text-align: center;
+	width: 115px;
+}
+th.count, td.count {
+	text-align: center;
+	width: 80px;
+}
+th.center, td.center {
+	text-align: center;
+}
+@media(max-width:980px) {
+	th.timestamp, td.timestamp {
+		display: none;
+	}
+	th.count, td.count {
+		display: none;
+	}
+	div.dataTables_length {
+		display: none;
+	}
+	div.dataTables_info {
+		display: none;
+	}
+}
+
+/* panel */
+.panel-heading h3, .panel-heading h4 {
+	margin: 0;
+	padding: 0;
+	line-height: normal;
+}
+
+/* form */
+
+form.form-inline {
+	margin-bottom: 20px;
+}
+
+/* misc */
+
+.alert_hidden {
+	display: none;
+}
+
+/* money */
+
+.money {
+	color: #3c763d;
+}
+.money_neg {
+	color: #a94442;
+}
+.money_zero {
+	color: #888;
+}
+.money span {
+	display: block;
+	size: 0.5em;
+}

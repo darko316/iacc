@@ -1,0 +1,30 @@
+body{
+	font: 11px Verdana, Geneva, sans-serif;
+	background: #f5f5f5;
+}
+
+a{
+	text-decoration:none;
+	color: #235068;	
+}
+
+.icono{
+	    border-radius: 10px;
+}
+
+h1 {
+	color: #235068;
+	font-size:20pt;
+}
+
+h2 {
+	color: #235068;	
+	font-size:14pt;
+}
+
+
+
+
+
+
+
